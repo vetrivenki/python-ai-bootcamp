@@ -1,14 +1,16 @@
 # Python AI Bootcamp — Level 1: Python Foundations
+## Beginner Edition (for people who have never coded)
 
 **Author:** Venkatesan Vetrimurasu  
 **YouTube:** Venkat's Tech Lab
 
-Hands-on Python skills you need before starting Machine Learning and Deep Learning.  
-Each topic explains the basic idea in plain English first, then shows complete runnable code.
+This guide assumes you have never written code before.  
+It starts from zero (what is a variable, what is a function, how to install and run Python),  
+then walks through 17 small projects with plain-English and line-by-line explanations.
 
 This folder contains:
 
-- `Level1_Python_Foundations_Guide.pdf` — complete guide with explanations + code
+- `Level1_Python_Foundations_Guide.pdf` — full beginner guide (16 pages)
 - `samples/` — one runnable `.py` file for every topic
 
 ---
