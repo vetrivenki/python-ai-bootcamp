@@ -1,9 +1,10 @@
-# Level 1: Python Foundations for AI
+# Python AI Bootcamp — Level 1: Python Foundations
 
 **Author:** Venkatesan Vetrimurasu  
 **YouTube:** Venkat's Tech Lab
 
-Hands-on Python skills you need before starting Machine Learning and Deep Learning.
+Hands-on Python skills you need before starting Machine Learning and Deep Learning.  
+Each topic explains the basic idea in plain English first, then shows complete runnable code.
 
 This folder contains:
 
